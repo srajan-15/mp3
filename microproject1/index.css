@@ -1,0 +1,36 @@
+.container{
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+
+.img1{
+    float:right;
+    margin: left 10px;
+    display: inline-flex;
+    height: 575px;
+    padding: 66.395px 89.61px 66.155px 91.87px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    }
+
+aa{
+width: 562px;
+color: #282828;
+font-family:'Inter';
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 54px */
+}
+.b{
+    display: flex;
+width: 495px;
+height: 81px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+}
+.footer{
+
+}
